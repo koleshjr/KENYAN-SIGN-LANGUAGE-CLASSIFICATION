@@ -1,4 +1,4 @@
-torch
+torch == 1.13.0
 fastai
 fastapi
 timm==0.6.2.dev0
