@@ -1,0 +1,6 @@
+torch
+fastai
+fastapi
+timm==0.6.2.dev0
+uvicorn
+python-multipart
